@@ -9,3 +9,4 @@ else:
     print(f"Tu valor escogido: {i}\nDebe ser mayor a {valor}")
     
 print('De aca en adelante seria el ultimo commit de BranchNueva')
+x=10
